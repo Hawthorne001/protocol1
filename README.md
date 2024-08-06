@@ -1,7 +1,7 @@
 # UMA Protocol
 
 <p align="center">
-  <img alt="UMA Logo" src="https://raw.githubusercontent.com/UMAprotocol/website/master/documents/press-kit/logos/02_SVG/Orange.svg" width="440">
+  <img alt="UMA Logo" src="https://raw.githubusercontent.com/UMAprotocol/website/master/documents/press-kit/logos/01_PNG/red/uma_red.png" width="440">
 </p>
 
 [![<UMAprotocol>](https://circleci.com/gh/UMAprotocol/protocol.svg?style=shield)](https://app.circleci.com/pipelines/github/UMAprotocol/protocol)
@@ -39,7 +39,7 @@ For detailed information on how to initialize and interact with our smart contra
 
 ### Install dependencies 👷‍♂️
 
-You'll need to install the long-term support version of nodejs, currently nodejs v14. You will also need to install yarn. Assuming that's done, run `yarn` with no args:
+You'll need to install the long-term support version of nodejs, currently nodejs v20. You will also need to install yarn. Assuming that's done, run `yarn` with no args:
 
 ```
 yarn
